@@ -15,7 +15,7 @@ https://github.com/blockstack/zone-file-py/pull/5.
 
 3. Run the script.
 
-        DO_API_TOKEN=<api-key> ./upload_zone_file.py <file-path>
+        DO_API_TOKEN=<api-key> DOMAIN=<domain.tld> ./upload_zone_file.py <file-path>
 
 
 ## Migrating from AWS
